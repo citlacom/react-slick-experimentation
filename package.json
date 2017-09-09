@@ -1,0 +1,31 @@
+{
+  "name": "project",
+  "version": "1.0.1",
+  "scripts": {
+    "start": "./node_modules/.bin/gulp"
+  },
+  "private": true,
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.10",
+    "gulp-autoprefixer": "2.1.0",
+    "gulp-sass": "2.1.1",
+    "gulp-util": "^3.0.1",
+    "jsx-loader": "^0.12.2",
+    "react": "^15.5.0",
+    "react-dom": "^15.5.0",
+    "react-drive-in": "^1.7.3",
+    "react-slick": "^0.14.11",
+    "run-sequence": "^1.0.2",
+    "webpack": "^1.4.15",
+    "webpack-dev-server": "^1.7.0"
+  },
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "create-react-class": "^15.5.3",
+    "fbjs": "^0.8.12",
+    "json2mq": "^0.2.0",
+    "prop-types": "^15.5.10",
+    "react-responsive-mixin": "^0.4.0"
+  }
+}
